@@ -2,6 +2,8 @@
 
 Sample project to demonstrate PCF8591 analog to digital converter with [things-drivers](https://github.com/davemckelvie/things-drivers)
 
+![Raspberry Pi Hookup](rpi3_pcf8591_lcd.png)
+
 ## Usage
 
 1. clone repo
